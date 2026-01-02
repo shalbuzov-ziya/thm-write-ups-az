@@ -2,7 +2,7 @@
 
 Hədəf IP ünvanına daxil olduqda sadə və statik bir **admin dashboard** səhifəsi görünür. İlkin mərhələdə hər hansı giriş mexanizmi və ya interaktiv funksiya mövcud deyil.
 
-![Agent T – Statik veb səhifə](images/Agent_T-0.png)
+![Agent T – Statik veb səhifə](../images/Agent_T-0.png)
 
 ---
 
