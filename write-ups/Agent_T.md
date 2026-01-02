@@ -50,7 +50,7 @@ Sistemdə flag faylını tapmaq üçün aşağıdakı əmr icra olunur:
 
     find / -name flag.txt 2>/dev/null
 
-![Agent T – Flag faylının yeri](images/Agent_T-3.png)
+![Agent T – Flag faylının yeri](../images/Agent_T-3.png)
 
 ---
 
@@ -60,7 +60,7 @@ Tapılan flag faylının məzmunu oxunur:
 
     cat /flag.txt
 
-![Agent T – Flag](images/Agent_T-4.png)
+![Agent T – Flag](../images/Agent_T-4.png)
 
 ---
 
