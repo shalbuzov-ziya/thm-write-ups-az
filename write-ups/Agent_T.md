@@ -10,7 +10,7 @@ Hədəf IP ünvanına daxil olduqda sadə və statik bir **admin dashboard** sə
 
 Daha sonra **Burp Suite** vasitəsilə HTTP sorğusunu ələ keçirib cavab başlıqlarını analiz edirik.
 
-![Agent T – HTTP sorğusu](images/Agent_T-1.png)
+![Agent T – HTTP sorğusu](../images/Agent_T-1.png)
 
 Sorğunun cavab başlıqlarında aşağıdakı məlumat diqqət çəkir:
 
@@ -38,7 +38,7 @@ Zəifliyi yoxlamaq üçün aşağıdakı payload göndərilir:
 
     User-Agentt: zerodiumsystem('whoami')
 
-![Agent T – RCE sübutu](images/Agent_T-2.png)
+![Agent T – RCE sübutu](../images/Agent_T-2.png)
 
 Cavabda `root` nəticəsinin alınması əmrlərin **root səlahiyyəti ilə** icra edildiyini təsdiqləyir.
 
