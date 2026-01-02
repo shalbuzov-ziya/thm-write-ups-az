@@ -39,14 +39,21 @@ Bu repository həm **öyrənmə gündəliyi**, həm də Azərbaycan dilli cybers
 
 ## 🧪 Mövcud Write-uplar
 
-- **Agent T**
+- **[Agent T](write-ups/Agent_T.md)**
   - Reconnaissance mərhələsi
   - HTTP sorğularının analizi
   - PHP 8.1.0-dev RCE zəifliyinin aşkar edilməsi
-  - Command Execution
+  - User-Agentt header üzərindən Command Execution
   - Root səlahiyyəti və flag-in əldə edilməsi
 
-(Yeni write-up-lar mərhələli şəkildə əlavə olunacaq)
+- **[CyberHeroes](write-ups/CyberHeroes.md)**
+  - Client-side JavaScript analizinin aparılması
+  - Page source üzərindən authentication məntiqinin aşkar edilməsi
+  - Reverse string texnikası ilə parolun əldə olunması
+  - Gizli flag endpoint-in müəyyən edilməsi
+  - Client-side auth bypass və flag-in çıxarılması
+
+(Yeni write-up-lar mərhələli və sistemli şəkildə əlavə olunacaq)
 
 ---
 
