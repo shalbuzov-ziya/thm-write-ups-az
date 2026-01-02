@@ -16,7 +16,7 @@ Bu sənəddə **CyberHeroes** CTF tapşırığının tam analizi, istifadə olun
 ### 1. Veb İnterfeysinin Tədqiqi
 Tapşırığa başladıqda bizi "CyberHeros" adlı ana səhifə qarşılayır. Sol tərəfdəki naviqasiya menyusunda **Login** bölməsi diqqəti cəlb edir.
 
-![Ana Səhifə](images/CyberHeroes-0.jpg)
+![Ana Səhifə](images/CyberHeroes-0.png)
 
 ### 2. Müştəri Tərəfli (Client-Side) Kodun Analizi
 Giriş səhifəsinin mənbə koduna baxdıqda, daxil edilən məlumatların necə yoxlandığını göstərən JavaScript funksiyasını görürük.
@@ -37,7 +37,7 @@ Giriş əldə etmək üçün kodun daxilindəki gizli simvollar ardıcıllığı
 ### 4. Bayrağın (Flag) Əldə Edilməsi
 Tapılmış etibarnamələri (credentials) istifadə edərək giriş etdikdə, sistem uğurla avtorizasiya olunur və bayraq ekranda göstərilir.
 
-![Bayraq](images/CyberHeroes-2.jpg)
+![Bayraq](images/CyberHeroes-2.png)
 
 ---
 
